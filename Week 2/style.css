@@ -1,0 +1,12 @@
+#specialParagraph{
+    color:red;
+}
+
+.newClass {
+    color: purple;
+}
+
+table, th, td{
+    border: 1px solid black;
+    padding: 5px;
+}
